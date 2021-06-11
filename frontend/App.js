@@ -21,13 +21,15 @@ import { useSelector } from 'react-redux';
 import UserPage from './components/user/UserPage';
 import ImageCard from './components/ImageCard';
 import userpageWallpaperImage from '../assets/userpageWallpaper.jpg';
+import communityImage from '../assets/community.jpg';
 
  const useStyles = makeStyles((theme) => ({
   root: {
     minheight: '100vh',
-    backgroundImage: `url(${userpageWallpaperImage})`,
+    backgroundImage: `url(${communityImage})`,
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
+    backgroundPosition: 'center center',
     /*minHeight: '100vh',
     backgroundImage:`url(${"../assets/userpageWallpaper.jpg"})`,
     backgroundRepeat: 'no-repeat',

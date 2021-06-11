@@ -5,7 +5,7 @@ import SortIcon from '@material-ui/icons/Sort';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
 import Button from '@material-ui/core/Button';
-import Logo from '../../../assets/logo.png';
+import Logo from '../../../assets/iwilogo.png';
 import { Link } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 import UserNavbar from './UserNavbar';
@@ -17,6 +17,7 @@ const useStyles = makeStyles((theme) => ({
   },
   appbarTitle: {
     flexGrow: '1',
+    marginRight: '10px',
   },
   appbarWrapper: {
     width: '80%',
@@ -34,11 +35,8 @@ const useStyles = makeStyles((theme) => ({
     fontSize: '3rem',
   },
   logo: {
-    maxWidth: 160,
+    maxWidth: 100,
   },
-  container: {
-    textAlign: 'center',
-  }
 }));
 
 
@@ -49,7 +47,7 @@ export default function Navbar() {
     <div>
       <AppBar className={classes.appbar} elevation={0}>
 	<Toolbar className={classes.appbarWrapper}>
-	  <img src={Logo} alt="logo" />
+	  <img src={Logo} alt="logo" className={classes.logo} />
 	  <h1 className={classes.appbarTitle}>..I<span className={classes.colorText}>W</span>I..
 	  </h1>
 	<IconButton>
