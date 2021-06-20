@@ -1,25 +1,17 @@
 # IWI
 
 ## Description
-IWI is a social platform connecting people sharing the same interests,
-mainly for community development. It allows people to find gigs,
-to join community clubs and to participate in events and initiatives.
+IWI is a social platform connecting people who share the same interests and hobby. User can post any open events or clubs for other people in the same community to join. It's a way to connect and meet new people.
 
 
-# API ROUTES
-All start with http://localhost:3000
-- GET '/' send back 'Homepage'
+## Inspiration
+After a few months of lock-down due to the COVID-19 pandemic, we  see the lack of outreach to our community. The isolation has driven people to crave more human interaction so we would want to build a web application that can connect people to people and uplift our community.
 
-## USER BASIC ROUTES
- - ***GET '/api/users'*** -- send back all user objects with lists of ONLY IDS of clubs, events, gigs, posts and comments
- - ***GET '/api/users/userId'*** -- send back the user object if found, with lists of ONLY IDS of clubs, events, gigs, posts and comments
- - ***POST '/api/users/signup'*** -- receive {firstName: , lastName:, username:, email:, password:}, send back "Successfully created a new user"
- - ***POST '/api/users/login'*** -- receive {email:, password:}, send back { token: token } in res.body and 'auth-token': token in res.header
- - ***POST '/api/users/logout'*** -- send back "logged out!" in res.body
- - ***PATCH '/api/users/userId'*** -- receive an object of what data to change/edit (excluding password and id), and send back the user object if found, with lists of ONLY IDS of clubs, events, gigs, posts and comments
- - ***PATCH '/api/users/userId/reset_password'*** -- receive an object of {password: , new_password: }, and send back the user object if found, with lists of ONLY IDS of clubs, events, gigs, posts and comments
- - ***DELETE '/api/users/userId'*** -- receive {password:} send back "Deleted"
 
+## Composition
+# Tools
+![Front-End] <img src="react_native_icon.png" width="50"/>
+![Back-End] <img src="javascript_language_icon.png" width="50" /> <img src="nodejs_icon.png" width="50" /> <img src="mongodb_programming_icon.png" width="50" />
 
 ## GIG BASIC ROUTES
  - ***GET '/api/gigs'*** -- send back all gig objects with lists of ONLY IDS of applicants, acceptedApplicants and comments(reviews)
