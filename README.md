@@ -11,7 +11,8 @@ After a few months of lock-down due to the COVID-19 pandemic, we  see the lack o
 ## Composition
 # Tools
 ![Front-End] <img src="react_native_icon.png" width="50"/>
-![Back-End] <img src="javascript_language_icon.png" width="50" /> <img src="https://www.iconfinder.com/search/?q=nodejs" width="50" /> <img src="mongodb_programming_icon.png" width="50" />
+![Back-End] <img src="javascript_language_icon.png" width="50" /> 
+![](https://www.iconfinder.com/search/?q=nodejs" width="50") <img src="mongodb_programming_icon.png" width="50" />
 
 ## GIG BASIC ROUTES
  - ***GET '/api/gigs'*** -- send back all gig objects with lists of ONLY IDS of applicants, acceptedApplicants and comments(reviews)
