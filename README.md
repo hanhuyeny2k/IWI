@@ -25,7 +25,14 @@ After a few months of lock-down due to the COVID-19 pandemic, we  see the lack o
 `$ npm install `
 
 ## Demo Features
-<img src="" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-homepage.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-login.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-signup.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-gigsearch.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-giglist.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-clubsearch.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-clublist.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-searchevent.png" />
 
 ### Demo Video
 Demo for IWI: https://drive.google.com/file/d/19ihwmPZWuWP8T0fDCAR049nE2rRepMFb/view?usp=sharing
