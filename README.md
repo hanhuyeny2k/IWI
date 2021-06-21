@@ -10,8 +10,9 @@ After a few months of lock-down due to the COVID-19 pandemic, we  see the lack o
 
 ## Composition
 ### Tools
--**Front-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/react_native_icon.png" width="50"/>
--**Back-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/javascript_language_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/nodejs_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/mongodb_programming_icon.png" width="50" />
+**Front-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/react_native_icon.png" width="50"/> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/material-ui.png" width="50"/> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/html_logo.png" width="50"/> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/css_icon.png" width="50"/>
+
+**Back-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/javascript_language_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/nodejs_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/mongodb_programming_icon.png" width="50" />
 
 ### Architecture
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/Architecture.png" />
