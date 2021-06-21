@@ -12,13 +12,17 @@ After a few months of lock-down due to the COVID-19 pandemic, we  see the lack o
 ### Tools
 **Front-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/react_native_icon.png" width="50"/> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/material-ui.png" width="50"/> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/html_logo.png" width="50"/> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/css_icon.png" width="50"/>
 
-**Back-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/javascript_language_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/nodejs_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/mongodb_programming_icon.png" width="50" />
+**Back-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/javascript_language_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/nodejs_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/mongodb_programming_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/Expressjs.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/redis.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/webpack.png" width="50" />
 
 ### Architecture
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/Architecture.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/howappworks.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/model-diagram.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/route-diagram.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/authentication.png" />
 
 ## Installation
-`$ sudo `
+`$ npm install `
 
 ## Demo Features
 <img src="" />
