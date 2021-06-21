@@ -10,8 +10,8 @@ After a few months of lock-down due to the COVID-19 pandemic, we  see the lack o
 
 ## Composition
 ### Tools
-   **Front-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/react_native_icon.png" width="50"/>
-   **Back-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/javascript_language_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/nodejs_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/mongodb_programming_icon.png" width="50" />
+-**Front-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/react_native_icon.png" width="50"/>
+-**Back-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/javascript_language_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/nodejs_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/mongodb_programming_icon.png" width="50" />
 
 ### Architecture
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/Architecture.png" />
@@ -23,7 +23,7 @@ After a few months of lock-down due to the COVID-19 pandemic, we  see the lack o
 <img src="" />
 
 ### Demo Video
-![Demo for IWI](https://drive.google.com/file/d/19ihwmPZWuWP8T0fDCAR049nE2rRepMFb/view?usp=sharing)
+Demo for IWI: https://drive.google.com/file/d/19ihwmPZWuWP8T0fDCAR049nE2rRepMFb/view?usp=sharing
 
 ## Setup and Testing
 <img src="" />
@@ -34,4 +34,4 @@ After a few months of lock-down due to the COVID-19 pandemic, we  see the lack o
 
 ***
 ## License
-MIT
+[MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
