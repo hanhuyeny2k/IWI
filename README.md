@@ -42,7 +42,10 @@ Demo for IWI: https://drive.google.com/file/d/19ihwmPZWuWP8T0fDCAR049nE2rRepMFb/
 
 ***
 ## Authors
-* Hanh Nguyen [Github](https://github.com/hanhuyeny2k) [Linkedln](https://www.linkedin.com/in/hanh-nguyen-20/)
+* Houssem Eddine Ben Khalifa [Github](https://github.com/Edin93)
+* Mariem Matri [Github](https://github.com/MatriMariem) [LinkedIn](https://www.linkedin.com/in/mariem-matri-249620178/) 
+* Emna Ben Hadj Messaoud [Github](https://github.com/emna7) [LinkedIn](http://linkedin.com/emna-ben-hadj-messaoud)
+* Hanh Nguyen [Github](https://github.com/hanhuyeny2k) [LinkedIn](https://www.linkedin.com/in/hanh-nguyen-20/)
 
 ***
 ## License
