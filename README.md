@@ -10,9 +10,9 @@ After a few months of lock-down due to the COVID-19 pandemic, we  see the lack o
 
 ## Composition
 ### Tools
-**Front-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/react_native_icon.png" width="50"/> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/material-ui.png" width="50"/> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/html_logo.png" width="50"/> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/css_icon.png" width="50"/>
+**Front-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/react_native_icon.png" width="50"/> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/material-ui.png" width="50"/> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/html_logo.png" width="50"/> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/css_icon.png" width="50"/> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/webpack.png" width="100" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/axios-vector-logo.png" width="50" />
 
-**Back-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/javascript_language_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/nodejs_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/mongodb_programming_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/Expressjs.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/redis.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/webpack.png" width="50" />
+**Back-End** <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/javascript_language_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/nodejs_icon.png" width="50" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/mongodb_programming_icon.png" width="100" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/Expressjs.png" width="100" /> <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/redis.png" width="50" />
 
 ### Architecture
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/Architecture.png" />
@@ -21,24 +21,26 @@ After a few months of lock-down due to the COVID-19 pandemic, we  see the lack o
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/route-diagram.png" />
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/authentication.png" />
 
-## Installation
-`$ npm install `
+## Setup and Installation
+1) Have nodejs installed on the local machine.  Check [here](https://nodejs.org/en/download/) if not yet installed.
+2) `git clone <github repo>`
+3) `npm install`
+4) `npm run frontend` and `npm run backend`simultaneously in two terminals.
 
 ## Demo Features
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-homepage.png" />
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-login.png" />
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-signup.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-user_profile.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-create_event.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-search_events.png" />
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-gigsearch.png" />
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-giglist.png" />
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-clubsearch.png" />
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-clublist.png" />
-<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-searchevent.png" />
 
 ### Demo Video
 Demo for IWI: https://drive.google.com/file/d/19ihwmPZWuWP8T0fDCAR049nE2rRepMFb/view?usp=sharing
-
-## Setup and Testing
-<img src="" />
 
 ***
 ## Authors
