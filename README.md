@@ -31,9 +31,9 @@ After a few months of lock-down due to the COVID-19 pandemic, we  see the lack o
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-homepage.png" />
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-login.png" />
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-signup.png" />
-<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-user_profile.png" />
-<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-create_event.png" />
-<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-search_events.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/user_profile.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/create_event.png" />
+<img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/search_events.png" />
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-gigsearch.png" />
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-giglist.png" />
 <img src="https://github.com/hanhuyeny2k/IWI/blob/main/assets/IWI-clubsearch.png" />
