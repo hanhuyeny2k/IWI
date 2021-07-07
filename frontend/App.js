@@ -9,7 +9,6 @@ import clubImage from '../assets/club.jpg';
 import gigImage from '../assets/gig.jpg';
 import eventImage from '../assets/event.jpg';
 import Homepage from './Homepage';
-import Activities from './Activities';
 import ClubsList from './components/club/ClubsList';
 import GigsList from './components/gig/GigsList';
 import EventsList from './components/event/EventsList';
@@ -19,23 +18,9 @@ import EventPage from './components/event/EventPage';
 import CreateEvent from './components/event/CreateEvent';
 import { useSelector } from 'react-redux';
 import UserPage from './components/user/UserPage';
-import ImageCard from './components/ImageCard';
-import userpageWallpaperImage from '../assets/userpageWallpaper.jpg';
-import communityImage from '../assets/community.jpg';
 
- const useStyles = makeStyles((theme) => ({
-  root: {
-    minheight: '100vh',
-    backgroundImage: `url(${communityImage})`,
-    backgroundRepeat: 'no-repeat',
-    backgroundSize: 'cover',
-    backgroundPosition: 'center center',
-    /*minHeight: '100vh',
-    backgroundImage:`url(${"../assets/userpageWallpaper.jpg"})`,
-    backgroundRepeat: 'no-repeat',
-    backgroundSize: 'cover',*/
-  },
- /*  icon: {
+const useStyles = makeStyles((theme) => ({
+  icon: {
     marginRight: theme.spacing(2),
   },
   heroContent: {
@@ -59,7 +44,7 @@ import communityImage from '../assets/community.jpg';
   },
   cardContent: {
     flexGrow: 1,
-  },*/ 
+  },
 }));
 
 function App() {
@@ -68,15 +53,12 @@ function App() {
   const selectedEvent = useSelector((state) => state.selectedEvent);
 
   return (
-    <div className={classes.root}>
+    <div className="App">
       <Router>
         <CssBaseline />
-	<Navbar />
-        <Homepage />
-	<Activities />
+        <Navbar />
         <Switch>
-          {/*Route path='/' exact component={Homepage} />*/}
-          <Route path='/imagecard' exact component={ImageCard} />
+          <Route path='/' exact component={Homepage} />
           <Route path='/login' exact>
             {
               currentUser ? <Redirect to='/' /> : <Login />
@@ -106,7 +88,6 @@ function App() {
             }
           </Route>
         </Switch>
-
         <Footer />
       </Router>
     </div>

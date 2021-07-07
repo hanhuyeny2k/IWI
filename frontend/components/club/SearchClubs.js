@@ -17,6 +17,9 @@ import Container from '@material-ui/core/Container';
 import InputLabel from '@material-ui/core/InputLabel';
 import MenuItem from '@material-ui/core/MenuItem';
 import Select from '@material-ui/core/Select';
+import InputAdornment from '@material-ui/core/InputAdornment';
+
+
 
 const useStyles = makeStyles((theme) => ({
   paper: {
@@ -74,8 +77,8 @@ export default function SearchClubs() {
     <Container component="main" maxWidth="xs">
       <CssBaseline />
       <div className={classes.paper}>
-        <Container align="center" >
-        <Avatar align="center" className={classes.avatar}>
+        {/*<Container align="center" >
+	  <Avatar align="center" className={classes.avatar}>
           <SearchIcon />
         </Avatar>
         </Container>
@@ -83,12 +86,32 @@ export default function SearchClubs() {
         <Typography  component="h1" variant="h5">
           Clubs Search
         </Typography>
-        </Box>
+        </Box>*/}
         <FormLabel className={classes.FormLabel} component="legend">Name:</FormLabel>
 
         <form className={classes.root} noValidate autoComplete="off">
-        <TextField id="outlined-basic" variant="outlined" />
-        </form>
+        <TextField
+          id="outlined-full-width"
+          
+          style={{ margin: 8 }}
+          placeholder="Search"
+          helperText="Full width!"
+          fullWidth
+          margin="normal"
+          InputLabelProps={{
+            shrink: true,
+          }}
+          variant="outlined"
+          InputProps={{
+            endAdornment: (
+              <InputAdornment>
+                  <SearchIcon />
+              </InputAdornment>
+            )
+          }}
+        />
+
+	</form>
           <FormControl className={classes.FormLabel} component="fieldset">
             <FormLabel component="legend">Privacy:</FormLabel>
             <RadioGroup row aria-label="clubs" name="clubs1" value={privacy} onChange={handleChangePrivacy}>

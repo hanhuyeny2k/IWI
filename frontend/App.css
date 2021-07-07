@@ -9,3 +9,6 @@
   margin: 0px auto;
   display: block;
 }*/
+.MuiCollapse-hidden {
+  visibility: hidden;
+}
